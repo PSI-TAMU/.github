@@ -11,7 +11,7 @@
 
 ## About Us
 
-The **Perception, Sensing, and Instrumentation (PSI) Lab** at **Texas A&M University**, directed by [Prof. Ricardo Gutierrez-Osuna](https://psi.engr.tamu.edu/people/ricardo-gutierrez-osuna/), develops machine learning and signal processing methods for human-centered technologies.
+The **Perception, Sensing, and Instrumentation (PSI) Lab** at **Texas A&M University**, directed by [Prof. Ricardo Gutierrez-Osuna](https://engineering.tamu.edu/cse/profiles/rgutierrez-osuna.html), develops machine learning and signal processing methods for human-centered technologies.
 
 Our work spans **speech processing** and **digital health**: from real-time, privacy-preserving speech systems to wearable sensing and data-driven approaches for understanding physiological signals. Across both areas, we study robust representations, efficient models, and intelligent systems that work beyond controlled laboratory settings.
 
